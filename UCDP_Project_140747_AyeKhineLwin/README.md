@@ -11,7 +11,7 @@ This is a Hybrid Optimization System that solves the Uncapacitated Facility Loca
 
 1. Clone the Repository
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/YashikaVelma/UCDP_Project_140747_AyeKhineLwin>
 cd UCDP_Project
 
 
