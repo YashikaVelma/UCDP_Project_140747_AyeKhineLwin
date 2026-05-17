@@ -12,7 +12,7 @@ This is a Hybrid Optimization System that solves the Uncapacitated Facility Loca
 1. Clone the Repository
 ```bash
 git clone <https://github.com/YashikaVelma/UCDP_Project_140747_AyeKhineLwin>
-cd UCDP_Project
+cd UCDP_Project_140747_AyeKhineLwin
 
 
 2. Install Required Python Packages
